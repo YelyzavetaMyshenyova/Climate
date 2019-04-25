@@ -12,5 +12,6 @@ img{
 }
 
 .content{
-border: 3px blue dashed;
+border: 3px #43D4EC solid;
+padding:3.5%;
 }
