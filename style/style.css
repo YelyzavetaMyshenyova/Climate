@@ -39,6 +39,20 @@ h5{
     margin-left: 22%;
 }
 
+.content3{
+    border: 3px #43D4EC solid;
+    padding: 3%;
+    font-family: 'Alike', serif;
+    font-weight: 900;
+    font-size: 145%;
+    text-decoration: none;
+    color: white;
+    font-style: italic;
+    list-style-type: none;
+    text-align: center;
+    background: #43D4EC;
+  
+}
 .content2{
     border: 3px #43D4EC solid;
     padding-top: 3%;
