@@ -6,7 +6,6 @@ padding:1.5%;
 .fa {
   padding: 20px;
   font-size: 30px;
-  width: 50px;
   text-align: center;
   text-decoration: none;
   margin: 5px 2px;
@@ -35,6 +34,7 @@ img{
 .fa-instagram {
   background: #125688;
   color: white;
+  margin-left:34%;
 }
 
 h5{
