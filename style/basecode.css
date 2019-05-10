@@ -15,8 +15,8 @@ menu, output, ruby, section, summary,
 time, mark, audio, video {
   font-size: 100%;
   vertical-align: baseline;
-  margin-right:10%;
-  margin-left:10%;
+  margin-right:5%;
+  margin-left:5%;
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
