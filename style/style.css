@@ -1,6 +1,15 @@
 .pres{
-    border: 3px orange solid;
-padding:1.5%;
+      padding: 20px;
+  font-size: 30px;
+  text-align: center;
+  margin: 5px 2px;
+    font-family: 'Alike', serif;
+    font-weight: 600;
+    text-decoration: none;
+    color: white;
+    font-style: italic;
+    list-style-type: none;
+    background: orangle;
 }
 
 .floatright{
