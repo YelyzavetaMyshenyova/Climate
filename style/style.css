@@ -1,3 +1,8 @@
+.pres{
+    border: 3px orange solid;
+padding:1.5%;
+}
+
 .floatright{
     float: right;
     margin: 3%;
