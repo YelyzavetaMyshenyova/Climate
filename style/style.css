@@ -1,3 +1,15 @@
+.floatright{
+    float: right;
+    margin: 3%;
+    width: 39%;
+}
+
+.floatleft{
+    float: left;
+    margin: 3%;
+    width: 39%;
+}
+
 .button{
 border: 3px #43D4EC solid;
 padding:1.5%;
@@ -87,6 +99,8 @@ h5{
 .content2{
     border: 3px #43D4EC solid;
     padding-top: 3%;
+  padding-right: 2%;
+  padding-left: 2%;
     padding-bottom: 3%;
     font-family: 'Alike', serif;
     font-weight: 500;
